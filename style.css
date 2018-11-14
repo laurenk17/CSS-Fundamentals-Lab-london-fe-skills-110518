@@ -4,11 +4,15 @@ body {
   margin: 0;
 }
 h1{
- align-content:"center";
+ align-content:center;
 }
 img {
-  align-conent:center;
-}
-a {
   align-content:center;
+}
+nav {
+  align-content:center;
+}
+nav.a {
+  padding:10px;
+  color:blue;
 }
