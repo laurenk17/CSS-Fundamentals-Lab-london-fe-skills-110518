@@ -16,6 +16,9 @@ a {
   padding:10px;
   background:grey;
 }
+figcaption{
+  font-size:;
+}
 #details {
   display:block;
 }
