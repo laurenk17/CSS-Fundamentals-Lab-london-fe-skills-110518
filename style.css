@@ -22,7 +22,7 @@ figcaption{
 #details {
   display:block;
 }
-div#details {float: ;}
+#details {float: ;}
 
 #featured-property{
   width:800px;
