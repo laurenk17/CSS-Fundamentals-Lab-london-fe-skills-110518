@@ -14,8 +14,8 @@ nav {
 }
 a {
   padding:10px;
-  background:blue;
+  background:grey;
 }
 #details {
-  
+  display:block;
 }
