@@ -12,7 +12,10 @@ img {
 nav {
   align-content:center;
 }
-nav.a {
+.a {
   padding:10px;
   color:blue;
+}
+#details {
+  
 }
